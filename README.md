@@ -204,4 +204,4 @@ This challenge demonstrates how multiple weak points (SQLi, SSTI, insecure backu
 
 ---
 
-**Author:** SecureInvest CTF Writeup
+**Author:** 3sy
